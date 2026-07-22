@@ -7,8 +7,8 @@ This project focuses on cleaning, categorizing, and analyzing sales transactions
 
 ## 🛠️ Tech Stack
 * **Language:** Python
-* **Libraries:** Pandas, Matplotlib, Seaborn
-* **Environment:** Jupyter Notebook / Colab
+* **Libraries:** Pandas
+* **Environment:** Jupyter Notebook
 
 ## 🔑 Key Features & Cleaning
 - **Data Quality:** Removed missing values and filtered out invalid negative transactions (`final_amount >= 0`).
